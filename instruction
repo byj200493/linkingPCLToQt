@@ -1,0 +1,3 @@
+pcl libraries are shared libraries(*.so) linkable dynamically.
+Add the names and paths to qt project by clicking right mouse button on pro editor.
+Add their path to run environment.
